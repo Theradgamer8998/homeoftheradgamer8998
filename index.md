@@ -1,7 +1,0 @@
-
-# HOME OF THERADGAMER8998
-This is where I will dump all of my games I make, and some other stuff.
-<br>
-<a href="Games.html">Games</a>
-<br>
-<a href="Applications.html">Applications</a>
