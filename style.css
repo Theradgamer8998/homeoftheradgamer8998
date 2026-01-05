@@ -38,4 +38,17 @@ a{
   font-style: inherit;
   font-family: sans-serif;
   align-self: auto;
+  font-size: 18;
+}
+a:hover{
+  font-size: 24;
+    text-align: center;
+  border-style:ridge;
+  border-color: whitesmoke;
+  background-color:azure;
+  text-decoration: inherit;
+  text-indent: inherit;
+  font-style: inherit;
+  font-family: sans-serif;
+  align-self: auto;
 }
