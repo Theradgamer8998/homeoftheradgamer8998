@@ -40,7 +40,7 @@ h6{
   align-self: auto;
   font-size: 18;
 }
-  :  hover{
+  a:hover{
   font-size: 24;
     text-align: center;
   border-style:ridge;
@@ -53,12 +53,9 @@ h6{
   align-self: auto;
 }
 .buttons: hover{
-transform: -15;
+transformY: -15;
   transition: transform 0.3 ease-in-out;
   cursor: pointer;
-}
-.buttons img{
-  width: 100;
 }
 .buttons{
   width: 325;
@@ -71,11 +68,19 @@ transform: -15;
   border-width: thick;
   border-color: antiquewhite;
   transition: transform 0.3 ease-in-out;
+  background-color: darkblue;
 }
 .mainstyle {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   margin: 20;
+}
+.buttons: a{
+  color: antiquewhite;
+  text-decoration: none;
+  text-transform: capitalize;
+   font-family: Comic Sans;
+  
 }
 
