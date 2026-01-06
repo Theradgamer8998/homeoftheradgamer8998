@@ -28,7 +28,7 @@ h5{
 }
 h6{
 }
-a{
+.hodfwihf{
   text-align: center;
   border-style:ridge;
   border-color: whitesmoke;
@@ -53,7 +53,7 @@ a:hover{
   align-self: auto;
 }
 .buttons: hover{
-transform: translateY(-15);
+transform: Y -15;
   transition: transform 0.3 ease-in-out;
   cursor: pointer;
 }
@@ -68,3 +68,4 @@ transform: translateY(-15);
   text-align: center;
   border: 2 solid black;
   margin: 10;
+}
