@@ -69,18 +69,14 @@ transformY: -15;
   border-color: antiquewhite;
   transition: transform 0.3 ease-in-out;
   background-color: darkblue;
+  color: antiquewhite;
+  text-decoration: none;
+  text-transform: capitalize;
 }
 .mainstyle {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   margin: 20;
-}
-.buttons: a{
-  color: antiquewhite;
-  text-decoration: none;
-  text-transform: capitalize;
-   font-family: Comic Sans;
-  
 }
 
