@@ -52,7 +52,7 @@ a{
 transformY: -15;
   transition: transform 0.3 ease-in-out;
   cursor: pointer;
-  background-color: whitesmoke;
+  color: whitesmoke;
 }
 .buttons{
   width: 325;
