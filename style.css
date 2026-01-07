@@ -21,7 +21,7 @@ p{
 }
 h2{
   border-style:ridge;
-  Background-color: darkblue;
+background-color: whitesmoke;
   border-color: whitesmoke;
   text-decoration: none;
 }
@@ -33,18 +33,6 @@ h5{
 }
 h6{
 }
-.hodfwihf{
-  text-align: center;
-  border-style:ridge;
-  border-color: whitesmoke;
-  background-color:azure;
-  text-decoration: inherit;
-  text-indent: inherit;
-  font-style: inherit;
-  font-family: sans-serif;
-  align-self: auto;
-  font-size: 18;
-}
   a:hover{
   font-size: 24;
   text-align: center;
@@ -54,11 +42,13 @@ h6{
   font-family: sans-serif;
   align-self: auto;
   background-image: url("Images/Background-Cosmos.png");
+    background-color: whitesmoke;
 }
 .buttons: hover{
 transformY: -15;
   transition: transform 0.3 ease-in-out;
   cursor: pointer;
+  background-color: whitesmoke;
 }
 .buttons{
   width: 325;
@@ -76,12 +66,14 @@ transformY: -15;
   color: antiquewhite;
   text-decoration: none;
   text-transform: capitalize;
+  background-color: whitesmoke;
 }
 .mainstyle {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   margin: 20;
+  background-color: whitesmoke;
 }
 .buttons img{
   width: 100
