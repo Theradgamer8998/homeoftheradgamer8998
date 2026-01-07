@@ -1,8 +1,5 @@
-:root.theme-cosmic {
-background-color: blue;
-background-image: url("Images/Background-Cosmos.png");
-}
-:root {
+
+body{
 background-color: black;
 background-image: url("Images/background.png");
 }
