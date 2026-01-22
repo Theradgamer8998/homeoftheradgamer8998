@@ -87,7 +87,9 @@ transformY: -15;
   width: 10;
 }
 .music-player {
- width: 325px;
+  width: 300px;
+  padding: 10px;
+  text-align: center;
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -96,13 +98,9 @@ transformY: -15;
   border: ridge;
   border-width: thick;
   border-color: antiquewhite;
-  transition: transform 0.3 ease-in-out;
-  background-color: antique-white;
-  color: whitesmoke;
   text-decoration: none;
   text-transform: capitalize;
   background-color: whitesmoke;
-  font-family: fantasy;
   background-image: url("Images/Musicbackground.jpeg");
   padding:10px;
 }
