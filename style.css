@@ -87,7 +87,7 @@ transformY: -15;
   width: 10;
 }
 .music-player {
- width: 325;
+ width: 325px;
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -103,7 +103,8 @@ transformY: -15;
   text-transform: capitalize;
   background-color: whitesmoke;
   font-family: fantasy;
-  background-image: url("Images/Musicbackground.jpeg")
+  background-image: url("Images/Musicbackground.jpeg");
+  padding:10px;
 }
 
 .song-info {
