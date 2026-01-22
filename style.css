@@ -108,14 +108,11 @@ transformY: -15;
     color: #666;
 }
 .container {
-  display: flex;
-  /* Optional: Add gap for spacing */
-  column-gap: 20px;
+  display: flex;         
+  flex-direction: row;   
+  flex-wrap: wrap;       
+  gap: 20px;           
+  padding: 20px;
 }
 
-.box {
-  padding: 20px;
-  border: 1px solid #ccc;
-  background-color: #f0f0f0;
-}
 
