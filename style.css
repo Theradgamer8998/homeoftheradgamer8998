@@ -1,4 +1,8 @@
-
+img{
+  border-style: double;
+  object-position: center;
+  border-color: antiquewhite;
+}
 body{
 background-color: black;
 background-image: url("Images/background.png");
